@@ -1,6 +1,6 @@
-# Missão 09 · Food Park
+# Projeto 09 · Food Park
 
-## Lore
+## Contexto
 Praça de food trucks: monta o combo e chama no app.
 
 ## Itens sugeridos
@@ -12,12 +12,12 @@ Praça de food trucks: monta o combo e chama no app.
 | Açaí 500ml | Gelato | R$ 16 |
 | Churros | Gelato | R$ 12 (esgotado) |
 
-## Boss (obrigatório)
+## Regra do tema (obrigatória)
 Filtro por **truck**.
 **Taxa de entrega R$ 3,00** no total + mensagem se o kit estiver vazio.
 
-## Cofre (Firestore)
+## Firestore
 Coleção: `pedidos_foodpark`.
 
-## Rank sugerido da guilda
+## Visual sugerido
 Cor: verde limão / branco
