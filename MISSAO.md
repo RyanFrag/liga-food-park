@@ -1,23 +1,13 @@
-# Projeto 09 · Food Park
+﻿# Food Park
 
-## Contexto
-Praça de food trucks: monta o combo e chama no app.
+## O que fazer
+1. Abra **`PRINTS.html`** neste repo (é o gabarito visual).
+2. Monte o app **parecido com o print** (não precisa ser idêntico).
+3. A regra do tema está **nas telas do print** — observe totais, badges e mensagens.
+4. Cada semana o professor libera issues novas. Faça só as da semana aberta.
 
-## Itens sugeridos
-| Item | Truck | Preço |
-|------|-------|-------|
-| Burger smash | Smash IF | R$ 22 |
-| Batata cheddar | Smash IF | R$ 14 |
-| Taco | La Fiesta | R$ 18 |
-| Açaí 500ml | Gelato | R$ 16 |
-| Churros | Gelato | R$ 12 (esgotado) |
+## Stack
+Node **22.23.1** · Ionic **9** standalone · Firebase de vocês
 
-## Regra do tema (obrigatória)
-Filtro por **truck**.
-**Taxa de entrega R$ 3,00** no total + mensagem se o kit estiver vazio.
-
-## Firestore
-Coleção: `pedidos_foodpark`.
-
-## Visual sugerido
-Cor: verde limão / branco
+## Entrega
+Link do seu **fork** + demo: login → lista → regra do print → Firestore
